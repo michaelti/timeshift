@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import { exec } from "child_process";
 
 const TIMEZONES = ["Europe/London", "America/Toronto"];
