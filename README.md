@@ -6,7 +6,7 @@ Quick utility for switching system timezone on macOS.
 
 Install the script globally:
 
-npm i -g https://github.com/michaelti/timeshift
+`npm i -g https://github.com/michaelti/timeshift`
 
 ## Usage
 
